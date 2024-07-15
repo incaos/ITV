@@ -1,3 +1,4 @@
 CCTV-1#A,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&livodToken=bb800ae03c2a2601e027d128dbd1b82006eadafaf3c87df367dfbc39b38e217c_1720507748_604800&fromCDN=ws
 CCTV-1#B,http://112.54.91.252:4022/rtp/239.11.0.65:5140
 CCTV-1#C,http://xyt.186738613.xyz/lngd.php?id=488&Cf.m3u8
+测试,http://xyt.186738613.xyz/lngd.php?id=488&Cf.m3u8
